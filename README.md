@@ -30,6 +30,11 @@ pip install openpyxl
 pip install -U scikit-learn
 ```
 
+[https://github.com/opencv/opencv-python](https://opencv.org/) - Open Source Computer Vision Library
+```sh
+pip install opencv-python
+```
+
 [Tensor Flow](https://www.tensorflow.org/) - Develop and Create Machine Learning Models
 ```sh
 pip install tensorflow
