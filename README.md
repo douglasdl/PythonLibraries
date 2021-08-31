@@ -69,3 +69,10 @@ pip install pytil
 ```sh
 pip install poetry
 ```
+
+[PyInstaller](https://www.pyinstaller.org/) - Convert Python applications into stand-alone executables
+```sh
+pip install pyinstaller
+```
+
+
