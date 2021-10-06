@@ -30,6 +30,11 @@ pip install openpyxl
 pip install -U scikit-learn
 ```
 
+[statsmodels](https://www.statsmodels.org/stable/index.html) - Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
+```sh
+pip install statsmodels
+```
+
 [https://github.com/opencv/opencv-python](https://opencv.org/) - Open Source Computer Vision Library
 ```sh
 pip install opencv-python
