@@ -35,7 +35,7 @@ pip install -U scikit-learn
 pip install statsmodels
 ```
 
-[https://github.com/opencv/opencv-python](https://opencv.org/) - Open Source Computer Vision Library
+[OpenCV](https://opencv.org/) / [OpenCV](https://github.com/opencv/opencv-python) - Open Source Computer Vision Library
 ```sh
 pip install opencv-python
 ```
